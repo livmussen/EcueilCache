@@ -109,3 +109,7 @@ In summary, the performance and behavior observed while executing these commands
 ### Conclusion
 
 This project serves as a practical tool for understanding and analyzing CPU cache behavior in multi-threaded applications and under different memory access patterns. It is valuable for developers and researchers interested in system programming, performance optimization, and hardware-software interaction.
+
+## License
+
+[MIT](LICENSE.md) © [Luc Tremblay](https://github.com/livmussen)
